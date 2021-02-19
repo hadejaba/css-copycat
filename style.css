@@ -16,7 +16,7 @@
 }
 
 .container {
-    background-color: #f19c79;
+    background-color: #d9d9d9;
     width: 100%;
     /* margin: 0 auto; */
     display: flex;
@@ -37,7 +37,7 @@
 }
 
 .containerTwo {
-    background-color :#cbdfbd;
+    background-color :#3c6e71;
     display: flex;
     justify-content: center;
     /* align-items: flex-start; */
@@ -76,7 +76,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #f19c79;
+    background-color: #d9d9d9;
     color: white;
     text-align: center;
     padding: 10px;
